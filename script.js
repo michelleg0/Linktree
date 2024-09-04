@@ -6,7 +6,7 @@ function sendMessage() {
 
     // Check if the input is not empty
     if (message) {
-        // For now, just show an alert with the message
+        // just show an alert with the message
         alert('Message sent: ' + message);
 
         // Clear the input
